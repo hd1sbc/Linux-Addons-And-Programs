@@ -1,0 +1,2 @@
+~/myScripts
+/usr/share/nmap/
